@@ -24,9 +24,9 @@ let cities = [{
     population: 3990456
   },
   {
-    location: [41.256538, -95.934502],
-    city: "Omaha",
-    state: "NE",
+    location: [33.4484, -112.0740],
+    city: "Phoenix",
+    state: "AZ",
     population: 1660272
   }
   ];
